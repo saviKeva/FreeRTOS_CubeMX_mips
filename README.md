@@ -1,0 +1,2 @@
+# Real-Time Embedded Control System (STM32F103, FreeRTOS, C)
+Developed real-time firmware in Embedded C on STM32F103R6 (ARM Cortex-M3) using FreeRTOS and STM32CubeMX for temperature-driven fan speed and peripheral control. Implemented modular peripheral drivers and RTOS tasks/timers/queues/mutexes with ISR notifications for TIM3 PWM motor control, ADC temperature sensing (LM35), EXTI pulse/interrupt handling (rain gauge via 74HC221 and keypad), USART1 telemetry, and 4-bit HD44780 LCD display updates, verified in Proteus simulation.   
