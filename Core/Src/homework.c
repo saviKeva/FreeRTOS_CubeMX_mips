@@ -1,9 +1,4 @@
-/*
- * homework.c
- *
- *  Created on: Jan 6, 2022
- *      Author: Marko Micovic
- */
+
 #include "FreeRTOS.h"
 #include "task.h"
 #include "gpio.h"
